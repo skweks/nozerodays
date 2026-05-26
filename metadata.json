@@ -1,0 +1,6 @@
+{
+  "name": "No Zero Days! Payroll Simulator",
+  "description": "An interactive, 2D point-and-click educational simulator for Philippine payroll computation designed for Grade 12 ABM learners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
